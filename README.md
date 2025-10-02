@@ -213,10 +213,6 @@ MIT
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## Author
-
-Your Name
-
 ## Acknowledgments
 
 - Built with [TanStack Table](https://tanstack.com/table)
